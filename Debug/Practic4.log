@@ -1,0 +1,5 @@
+﻿  Practic4.cpp
+C:\Users\User\source\repos\Practic4\Practic4\Practic4.cpp(72,17): warning C4101: y: неиспользованная локальная переменная
+C:\Users\User\source\repos\Practic4\Practic4\Practic4.cpp(72,14): warning C4101: x: неиспользованная локальная переменная
+C:\Users\User\source\repos\Practic4\Practic4\Practic4.cpp(72,20): warning C4101: color: неиспользованная локальная переменная
+  Practic4.vcxproj -> C:\Users\User\source\repos\Practic4\Debug\Practic4.exe
